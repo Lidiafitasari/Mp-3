@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shoppevita</string>
+    <string name="content_price">Rp. 250.000</string>
+    <string name="content_text">[PROMO] Paket Hemat Komplit Wardah Lightening Series. Rangkaian produk dalam lightening series merupakan satu kesatuan produk yang saling melengkapi untuk membantu mencerahkan kulit sehingga hasil akhir kulit akan tampak lebih cerah dan terawat. Penggunaan rangkaian produk Wardah Lightening Series secara lengkap dan rutin akan memberikan hasil yang lebih optimal. Pilihan Paket : Paket Custom, lengkap jumbo, lengkap hemat,  sesuai kebutuhan dan keinginan.</string>
+    <string name="content_kategori">kecantikan/perawatan/kesehatan</string>
+    <string name="content_merek">Wardah</string>
+    <string name="content_stok">150</string>
+    <string name="content_dikirim_dari">Kota Cirebon, jawa barat, Indonesia</string>
+</resources>
